@@ -1,4 +1,4 @@
-
+//https://github.com/HrDelwar/assignment-3
 
 // kilometer to meter function 
 function kilometerToMeter(km) {
@@ -125,7 +125,7 @@ const totalHotelCost = hotelCost(36);
 //find bigest name in an array that conain more friend name
 function megaFriend(arr) {
     //check array is empty or not, if empty than return with message.
-    if(!arr){
+    if (!arr) {
         return "Friends have no value. Please input a value."
     }
     // check it's array or not, if not array than return with message.
